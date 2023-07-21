@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        ECR_REGISTRY = "912764400985.dkr.ecr.us-east-1.amazonaws.com"
+        ECR_REGISTRY = "502964439914.dkr.ecr.us-east-1.amazonaws.com"
         APP_REPO_NAME= "techtorial-repo/to-do-app"
     }
 
